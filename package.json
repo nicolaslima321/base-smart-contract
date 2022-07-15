@@ -1,0 +1,12 @@
+{
+  "name": "base-smart-contract",
+  "version": "1.0.0",
+  "description": "My first project of Web3, creating a smart contract for the Ethereum network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicolas Lima <nicolas.pedroso2145@gmail.com>",
+  "license": "ISC"
+}
